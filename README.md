@@ -16,7 +16,6 @@ The Island is an interactive, creative and entertaining first-person tower defen
 
 ## Features
 - **Switch weapons via waypoints**
-
 - **Autofire via colliders**
 - **Enemy AI: navigation map**
 - **Gunshot and explosion effect**
@@ -29,12 +28,23 @@ The Island is an interactive, creative and entertaining first-person tower defen
 - [Google VR SDK for Unity v1.50](https://developers.google.com/vr/unity/download) (May 2017)
 - Scripts are written in [C#](https://docs.microsoft.com/en-us/dotnet/csharp/csharp) using [Unity API](https://docs.unity3d.com/ScriptReference/).
 
-:warning: We initially used Unity3D 5.6.1 for development, however, it seems it has compatibility issues with GVR SDK. To achieve the same functionality, we strongly suggest you use exactly the same versions of software.
+:warning: We initially used Unity3D 5.6.1 for development, however, it seemed it had compatibility issues with GVR SDK. To achieve the same functionality, we strongly suggest you use exactly the same versions of software.
 
 ## Used Assets
-All of the assets used in the project were downloaded from Unity Asset Store. The copyrights are owned by corresponding developers.
-
-- **Monster Models**
+All of the assets used in the project were downloaded from [Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/) and [DEVAsserts](http://devassets.com/) by [Brackeys](https://www.youtube.com/user/Brackeys). The copyrights are owned by corresponding developers.
+#### Monster Models
+- [Zombie](https://www.assetstore.unity3d.com/en/#!/content/30232)
+- [Golem](https://www.assetstore.unity3d.com/en/#!/content/33260)
+- [Monster 3](https://www.assetstore.unity3d.com/en/#!/content/48933)
+#### Weaponry
+- [Modern Guns](http://devassets.com/assets/modern-weapons/)
+- [Grenade Pack](https://www.assetstore.unity3d.com/en/#!/content/83440)
+#### Skybox
+- [Classic Skybox](https://www.assetstore.unity3d.com/en/#!/content/24923)
+#### Waypoints
+- [Udaicty VR Waypoints]()
+#### Environment
+- [Desert Environment](http://devassets.com/assets/desert-environment/)
 
 ## Download
 
