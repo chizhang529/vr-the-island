@@ -13,17 +13,26 @@ The Island is an interactive, creative and entertaining first-person tower defen
 
   There exist three types of monster attackers in the game:
   
-  |                                           Model                                                 |     Name      |   HP  |   Initial Speed  |  Probability | 
-  |:----------------------------------------------------------------------------------------------: |:-------------:| :----:| :---------------:| :-----------:|
-  | <img src="https://media.giphy.com/media/3o7btS896vazQBk5Jm/giphy.gif" width="80" height="130" />|    Goliath    |   170 |       0.5        |      0.2     |
-  | <img src="https://media.giphy.com/media/l0IydmBPDsgOQ0WS4/giphy.gif" width="80" height="130" /> |    Zombie     |   80  |       0.5        |      0.2     |
-  | <img src="https://media.giphy.com/media/l0IydmBPDsgOQ0WS4/giphy.gif" width="80" height="130" /> |    Golem      |   60  |       0.5        |      0.2     |
+  |                          Model                             |     Name      |   HP  |   Initial Speed  |  Probability | 
+  |:---------------------------------------------------------: |:-------------:| :----:| :---------------:| :-----------:|
+  | <img src="./pics/monsters/goliath.gif" width="85" height="130" />   |    Goliath    |   170 |       0.5        |      0.2     |
+  | <img src="./pics/monsters/zombie.gif" width="85" height="130" />    |    Zombie     |   80  |       1.0        |      0.3     |
+  | <img src="./pics/monsters/golem.gif" width="85" height="130" />     |    Golem      |   60  |       2.0        |      0.5     |
 
 - **Waypoints**
-8 waypoints
+
+  8 waypoints are provided for players to navigate the map and switch weapons associated with waypoints
 
 - **Weapons**
-
+  
+  Refer to the table below for details of weapons:
+  
+  |                          Model                             |     Name      |   HP  |   Initial Speed  |  Probability | 
+  |:---------------------------------------------------------: |:-------------:| :----:| :---------------:| :-----------:|
+  | <img src="./pics/goliath.gif" width="85" height="130" />   |    Goliath    |   170 |       0.5        |      0.2     |
+  | <img src="./pics/zombie.gif" width="85" height="130" />    |    Zombie     |   80  |       1.0        |      0.3     |
+  | <img src="./pics/golem.gif" width="85" height="130" />     |    Golem      |   60  |       2.0        |      0.5     |
+  
 - **Rounds**
 
 ## Features
