@@ -10,8 +10,14 @@ The Island is an interactive, creative and entertaining first-person tower defen
 
 ## Game Settings and Rules
 - **Attackers**
-There exist three types of monster attackers in the game:
 
+  There exist three types of monster attackers in the game:
+  
+  |                                           Model                                                 |     Name      |   HP  |   Initial Speed  |  Probability | 
+  |:----------------------------------------------------------------------------------------------: |:-------------:| :----:| :---------------:| :-----------:|
+  | <img src="https://media.giphy.com/media/3o7btS896vazQBk5Jm/giphy.gif" width="80" height="130" />|    Goliath    |   170 |       0.5        |      0.2     |
+  | <img src="https://media.giphy.com/media/l0IydmBPDsgOQ0WS4/giphy.gif" width="80" height="130" /> |    Zombie     |   80  |       0.5        |      0.2     |
+  | <img src="https://media.giphy.com/media/l0IydmBPDsgOQ0WS4/giphy.gif" width="80" height="130" /> |    Golem      |   60  |       0.5        |      0.2     |
 
 - **Waypoints**
 8 waypoints
