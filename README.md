@@ -10,8 +10,14 @@ The Island is an interactive, creative and entertaining first-person tower defen
 
 ## Game Settings and Rules
 - **Attackers**
+There exist three types of monster attackers in the game:
+
+
 - **Waypoints**
+8 waypoints
+
 - **Weapons**
+
 - **Rounds**
 
 ## Features
@@ -42,13 +48,17 @@ All of the assets used in the project were downloaded from [Unity Asset Store](h
 #### Skybox
 - [Classic Skybox](https://www.assetstore.unity3d.com/en/#!/content/24923)
 #### Waypoints
-- [Udaicty VR Waypoints]()
+- [Udaicty VR Waypoints](https://www.udacity.com/course/vr-software-development--ud1014)
 #### Environment
 - [Desert Environment](http://devassets.com/assets/desert-environment/)
 
 ## Download
+All C# scripts can be found in `Unity Scripts` folder and we also provide links to download our project:
+- [Unity Project]()
+- [Xcode Project]() for deployment on iOS
 
 ## Ackonwledgement
+Thanks should go to [Brackeys](https://www.youtube.com/user/Brackeys), [Matthew Hallberg](https://www.youtube.com/channel/UClm2DY6pj3ygKoKhEVr7KFw) for their wonderful Unity tutorials on Youtube. Also, virtual reality courses on [Udacity](https://www.udacity.com/) provided us inspirations in building scenes and VR software development. 
 
 ## License
 Free for personal and educational use. For commercial purposes, please <a href='mailto:czhang94@stanford.edu,qiany@stanford.edu'>contact us</a>.
