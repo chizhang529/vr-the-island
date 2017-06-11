@@ -8,7 +8,7 @@ The Island is a mobile VR game developed by [Qian Yu](https://www.linkedin.com/i
 ## Description
 The Island is an interactive, creative and entertaining first-person tower defense game, providing players with an highly immersive VR experience. In this game, players will protect an island with weapons from monster attackers. The various options of weapons on different locations offer players flexibility of their strategic plans. And players can fully enjoy the game with portable and affordable [Google Cardboard](https://vr.google.com/cardboard/) on mainstream mobile platform, such as [iOS](https://en.wikipedia.org/wiki/IOS) and [Android](https://en.wikipedia.org/wiki/Android_(operating_system)).
 
-**Note:** we provied Xcode project for installing our game app on your iPhone in `Download`. [Check it out!](https://github.com/chizhang529/vr-the-island#download)
+**Note:** we provied Xcode project for installing our game app on your iPhone in `Download`.
 
 ## Game Settings and Rules
 - **Attackers**
@@ -113,9 +113,11 @@ All of the assets used in the project were downloaded from [Unity Asset Store](h
 The video demo(HD720p) is [here](https://youtu.be/RAfLkjD5wI8) on Youtube.
 
 ## Download
-All C# scripts can be found in `Unity Scripts` folder and we also provide links to download our project:
-- [Unity Project]()
-- [Xcode Project]() for iOS
+The link to download:
+
+- [Xcode Project](https://drive.google.com/open?id=0B052uY9fOjMgbWo0YkJzVUFKSmc) for iOS
+
+After you download the zip file, unzip and run it using Xcode on MacOS devices. Xcode will install the app to your iPhone but it may take a while. When it is done, enjoy the game!
 
 ## Acknowledgement
 Thanks should go to [Brackeys](https://www.youtube.com/user/Brackeys), [Matthew Hallberg](https://www.youtube.com/channel/UClm2DY6pj3ygKoKhEVr7KFw) for their wonderful Unity tutorials on Youtube. Also, virtual reality courses on [Udacity](https://www.udacity.com/) provided us inspirations in building scenes and VR software development. 
