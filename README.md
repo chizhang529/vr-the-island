@@ -6,7 +6,9 @@ The Island is a mobile VR game developed by [Qian Yu](https://www.linkedin.com/i
 </p>
 
 ## Description
-The Island is an interactive, creative and entertaining first-person tower defense game, providing players with an highly immersive VR experience. In this game, players will protect an island with weapons from monster attackers. The various options of weapons on different locations offer players flexibility of their strategic plans. And players can fully enjoy the game with portable and affordable [Google Cardboard](https://vr.google.com/cardboard/) on mainstream mobile platform, such as iOS and Android.
+The Island is an interactive, creative and entertaining first-person tower defense game, providing players with an highly immersive VR experience. In this game, players will protect an island with weapons from monster attackers. The various options of weapons on different locations offer players flexibility of their strategic plans. And players can fully enjoy the game with portable and affordable [Google Cardboard](https://vr.google.com/cardboard/) on mainstream mobile platform, such as [iOS](https://en.wikipedia.org/wiki/IOS) and [Android](https://en.wikipedia.org/wiki/Android_(operating_system)).
+
+**Note:** we provied Xcode project for installing our game app on your iPhone in `Download`. [Check it out!](https://github.com/chizhang529/vr-the-island#download)
 
 ## Game Settings and Rules
 - **Attackers**
@@ -88,7 +90,7 @@ The background music is *Enemy of My Enemy is My friend* from [Call of Duty: Mod
 - [Google VR SDK for Unity v1.50](https://developers.google.com/vr/unity/download) (May 2017)
 - Scripts are written in [C#](https://docs.microsoft.com/en-us/dotnet/csharp/csharp) using [Unity API](https://docs.unity3d.com/ScriptReference/).
 
-:warning: We initially used Unity3D 5.6.1 for development, however, it seemed it had compatibility issues with GVR SDK. To achieve the same functionality, we strongly suggest you use exactly the same versions of software.
+:warning: We initially used Unity3D 5.6.1 for development, however, it seemed to have compatibility issues with GVR SDK. To achieve the same functionality, we strongly suggest you use exactly the same versions of software.
 
 ## Used Assets
 All of the assets used in the project were downloaded from [Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/) and [DEVAsserts](http://devassets.com/) by [Brackeys](https://www.youtube.com/user/Brackeys). The copyrights are owned by corresponding developers.
@@ -108,14 +110,12 @@ All of the assets used in the project were downloaded from [Unity Asset Store](h
 - [Desert Environment](http://devassets.com/assets/desert-environment/)
 
 ## Video Demo
-The video demo(HD720p) is [here](https://youtu.be/RAfLkjD5wI8).
-
-[![The Island Demo](http://i.imgur.com/7YTMFQp.png)](https://youtu.be/RAfLkjD5wI8 "The Island Demo - Click to Watch!")
+The video demo(HD720p) is [here](https://youtu.be/RAfLkjD5wI8) on Youtube.
 
 ## Download
 All C# scripts can be found in `Unity Scripts` folder and we also provide links to download our project:
 - [Unity Project]()
-- [Xcode Project]() for deployment on iOS
+- [Xcode Project]() for iOS
 
 ## Ackonwledgement
 Thanks should go to [Brackeys](https://www.youtube.com/user/Brackeys), [Matthew Hallberg](https://www.youtube.com/channel/UClm2DY6pj3ygKoKhEVr7KFw) for their wonderful Unity tutorials on Youtube. Also, virtual reality courses on [Udacity](https://www.udacity.com/) provided us inspirations in building scenes and VR software development. 
