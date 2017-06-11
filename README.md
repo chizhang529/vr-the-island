@@ -107,6 +107,11 @@ All of the assets used in the project were downloaded from [Unity Asset Store](h
 #### Environment
 - [Desert Environment](http://devassets.com/assets/desert-environment/)
 
+## Video Demo
+The video demo(HD720p) is [here](https://youtu.be/RAfLkjD5wI8).
+
+[![The Island Demo](http://i.imgur.com/7YTMFQp.png)](https://youtu.be/RAfLkjD5wI8 "The Island Demo - Click to Watch!")
+
 ## Download
 All C# scripts can be found in `Unity Scripts` folder and we also provide links to download our project:
 - [Unity Project]()
