@@ -117,7 +117,7 @@ All C# scripts can be found in `Unity Scripts` folder and we also provide links 
 - [Unity Project]()
 - [Xcode Project]() for iOS
 
-## Ackonwledgement
+## Acknowledgement
 Thanks should go to [Brackeys](https://www.youtube.com/user/Brackeys), [Matthew Hallberg](https://www.youtube.com/channel/UClm2DY6pj3ygKoKhEVr7KFw) for their wonderful Unity tutorials on Youtube. Also, virtual reality courses on [Udacity](https://www.udacity.com/) provided us inspirations in building scenes and VR software development. 
 
 ## License
