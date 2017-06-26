@@ -105,7 +105,7 @@ All of the assets used in the project were downloaded from [Unity Asset Store](h
 #### Skybox
 - [Classic Skybox](https://www.assetstore.unity3d.com/en/#!/content/24923)
 #### Waypoints
-- [Udaicty VR Waypoints](https://www.udacity.com/course/vr-software-development--ud1014)
+- [Udacity VR Waypoints](https://www.udacity.com/course/vr-software-development--ud1014)
 #### Environment
 - [Desert Environment](http://devassets.com/assets/desert-environment/)
 
